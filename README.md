@@ -1,3 +1,3 @@
-# Data Lake on AWS for the N-BaIoT dataset
+# Data Lake on AWS
 
 ![Pipeline Overview](structure.png)
