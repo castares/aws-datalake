@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Others
+documentation
+dataset
+lambda_layers
+to_send
+queries
